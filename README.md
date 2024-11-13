@@ -1,16 +1,11 @@
-# rezaapps
+# Membuat Halaman Simple tentang Diri Sendiri - Praktikum 2 Teknologi Berkembang
 
-A new Flutter project.
+Halaman ini memuat dokumentasi pembuatan halaman profil sederhana AboutPage menggunakan Flutter. Halaman ini dirancang untuk menampilkan informasi dasar dan unik tentang pengguna, termasuk foto diri, nama lengkap, NRP, serta beberapa fakta menarik atau fun facts. Desain halaman ini dibuat dengan menggunakan elemen visual seperti gradien warna, foto, bayangan (shading), dan ikon.
 
-## Getting Started
+# Data Diri
+Nama: Rizky Fahreza Bakhtiar
+NRP: 5026221075
+Kelas: Teknologi Berkembang (B)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
